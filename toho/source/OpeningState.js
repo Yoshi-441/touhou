@@ -278,7 +278,7 @@ TitleState.prototype._displayMessage = function( surface ) {
   else
     surface.globalAlpha = 1.0 ;
 
-  surface.fillText( '東方 幻魔郷(仮)', 120, 200 ) ;
+  surface.fillText( '東方風STG', 120, 200 ) ;
   surface.restore( ) ;
 } ;
 

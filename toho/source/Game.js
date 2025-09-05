@@ -172,7 +172,7 @@ Game._IMGS[ Game._IMG_STAND_MARISA ]     = 'image/marisa_stand.png' ;
 Game._IMGS[ Game._IMG_STAND_MOKOU ]      = 'image/mokou_stand.png' ;
 Game._IMGS[ Game._IMG_STAND_RUMIA ]      = 'image/rumia_stand.png' ;
 Game._IMGS[ Game._IMG_STAND_CHILNO ]     = 'image/chilno_stand.png' ;
-Game._IMGS[ Game._IMG_TITLE_BG ]         = 'image/title_bg.png' ;
+Game._IMGS[ Game._IMG_TITLE_BG ]         = 'image/title_bg_2.png' ;
 
 Game._BGM_TITLE  = 0 ;
 Game._BGM_1      = 1 ;
